@@ -54,3 +54,9 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="right">
+  <sub><em>yes, i keep count</em> &nbsp; <img src="https://komarev.com/ghpvc/?username=virtualhealthcitizen&style=flat-square&color=lightgrey&label=" height="13" alt="visitor count" /></sub>
+</p>
